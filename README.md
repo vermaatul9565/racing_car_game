@@ -15,4 +15,7 @@ Play: https://vermaatul9565.github.io/racing_car_game/
 when player's car(Light blue) collide with computer's car(Red)
 
 # Issues:
-Need to development for tochscreen devices(mobile/tablet)
+1. Work Only in computers
+# Development
+1. Need to development for tochscreen devices(mobile/tablet)
+2. Add option for game level 
