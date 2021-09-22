@@ -9,7 +9,7 @@ Play: https://vermaatul9565.github.io/racing_car_game/
 ## Feature:
  1. Single Player
  2. Play using arrow buttons
- 3. Count Score
+ 3. Score board
  4. Animation 
 ## Game Over condition:
 when player's car(Light blue) collide with computer's car(Red)
