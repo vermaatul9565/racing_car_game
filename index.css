@@ -15,10 +15,23 @@
     background-size : 100% 100%;
 }
 
-.car,.enemy{
+.car{
     width: 50px;
-    height: 100px;
-    background-color: #5c3769;
+    height: 120px;
+    
+    background-image: url('a.jpeg');
+    position: absolute;
+    bottom: 120px;
+    border-radius: 20px;
+
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.enemy{
+    width: 50px;
+    height: 120px;
+    
+    background-image: url('images.jpeg');
     position: absolute;
     bottom: 120px;
     border-radius: 20px;
