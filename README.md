@@ -1,2 +1,1 @@
-# racing_car_game
-HTML, CSS, JS
+# RuningCar_Game.github.io
